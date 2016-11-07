@@ -1,0 +1,77 @@
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: 127.0.0.1 check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: grace.wilee.me check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: localhost check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: feclub.cn check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: 127.0.0.1
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: grace.wilee.me
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: localhost
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: feclub.cn
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: 127.0.0.1 check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: grace.wilee.me check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: localhost check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: feclub.cn check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: 127.0.0.1
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: grace.wilee.me
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: localhost
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: feclub.cn
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: 127.0.0.1 check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: grace.wilee.me check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: localhost check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: feclub.cn check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: 127.0.0.1
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: grace.wilee.me
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: localhost
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: feclub.cn
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:server Listening on port 3000
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:server Listening on port 3000
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/demo/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/demo/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:mongo error : can't find mongo path /Users/liuming/github/soure-think/app/blog/model/mongo
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:views options: {"root":"/Users/liuming/github/soure-think/app/blog/views","map":{"html":"swig"},"cache":"memory","extension":"html"}
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:router error : can't find route path /Users/liuming/github/soure-think/app/blog/controller
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: 127.0.0.1 check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: grace.wilee.me check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: localhost check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost vhost: feclub.cn check success
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: 127.0.0.1
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: grace.wilee.me
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: localhost
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:vhost register vhost: feclub.cn
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:server Listening on port 3000
+2016-10-15 18:55:14: Sat, 15 Oct 2016 10:55:14 GMT koa-grace:server Listening on port 3000
+2016-10-15 18:57:20: Sat, 15 Oct 2016 10:57:20 GMT koa-grace:vhost matched host: 127.0.0.1
